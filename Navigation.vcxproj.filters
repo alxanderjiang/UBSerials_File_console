@@ -32,28 +32,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\Com16_1127212705.dat">
-      <Filter>资源文件</Filter>
-    </None>
-    <None Include="220911271555.21o">
-      <Filter>资源文件</Filter>
-    </None>
-    <None Include="220911271555e.21o">
-      <Filter>资源文件</Filter>
-    </None>
-    <None Include="20220927OBS+NAV+PSRPOS+IONUTC.dat">
-      <Filter>资源文件</Filter>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\Serial.txt">
-      <Filter>资源文件</Filter>
-    </Text>
-    <Text Include="BDStest.txt">
-      <Filter>资源文件</Filter>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="Test_of_File.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
